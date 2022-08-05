@@ -8,7 +8,7 @@
     <p><a href="https://www.linkedin.com/in/briankweber/"><img alt="LinkedIn @briankweber" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(connect)</strong> On LinkedIn </small></p>
 </div>
 
-[![Sponsor Brian](https://via.placeholder.com/1280x300.jpg?text=brianweber)][s]
+https://user-images.githubusercontent.com/1579004/183031567-04f2729e-dced-4a77-98e1-b9dfddb9a383.mp4
 
 <small><strong>❯❯ Professional Development Courses ↓</strong></small>
 
