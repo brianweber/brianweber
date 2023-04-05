@@ -22,6 +22,5 @@ https://user-images.githubusercontent.com/1579004/183031567-04f2729e-dced-4a77-9
 [d]: https://PoshModule.com?utm_source=github.com/brianweber&utm_medium=referral&utm_campaign=profile
 [g]: https://github.com/brianweber
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=brianweber&theme=flat&margin-w=15&no-bg=true&no-frame=true)](https://github.com/brianweber/github-profile-trophy)
 ![image](https://user-images.githubusercontent.com/1579004/229958546-ed61da3f-cd84-4bfe-a649-d33d78ff9b4b.png)
 
