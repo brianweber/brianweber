@@ -23,3 +23,5 @@ https://user-images.githubusercontent.com/1579004/183031567-04f2729e-dced-4a77-9
 [g]: https://github.com/brianweber
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=brianweber&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianweber&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![image](https://user-images.githubusercontent.com/1579004/229960763-e88b91b4-3b28-4b42-80c3-4efcfb9726ca.png)
+
