@@ -21,3 +21,5 @@ https://user-images.githubusercontent.com/1579004/183031567-04f2729e-dced-4a77-9
 [v]: https://imaginehouse.com?utm_source=github.com/brianweber&utm_medium=referral&utm_campaign=profile
 [d]: https://PoshModule.com?utm_source=github.com/brianweber&utm_medium=referral&utm_campaign=profile
 [g]: https://github.com/brianweber
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=brianweber&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
